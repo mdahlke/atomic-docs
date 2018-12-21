@@ -1,10 +1,10 @@
 [
     {
-        "styles_directory": "scss",
+        "styles_directory": "src/scss",
         "styles_extension": "scss",
-        "component_directory": "components",
+        "component_directory": "src/components",
         "component_extension": "php",
-        "js_directory": "js",
+        "js_directory": "src/js",
         "js_extension": "js"
     }
 ]
