@@ -1,13 +1,17 @@
 {
-    "name": "mdahlke/atomic-docs",
-    "description": "Core files for the Atomic Docs styleguide",
-    "type": "project",
-    "license": "GPL-3.0-only",
-    "authors": [
-        {
-            "name": "wiset.com",
-            "email": "nberens@wisnet.com"
-        }
-    ],
-    "require": {}
+  "name": "mdahlke/atomic-docs",
+  "description": "Core files for the Atomic Docs styleguide",
+  "type": "project",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "wiset.com",
+      "email": "nberens@wisnet.com"
+    },
+    {
+      "name": "Michael Dahlke",
+      "email": "mdahlke@wisnet.com"
+    }
+  ],
+  "require": {}
 }

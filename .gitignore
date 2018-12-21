@@ -1,3 +1,5 @@
 vendor/
 atomic-db/
 src/
+atomic-head.php
+atomic-foot.php
