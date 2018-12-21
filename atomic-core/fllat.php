@@ -13,7 +13,7 @@
  *
  */
 
-require "vendor/prequel.php";
+require "vendor-js/prequel.php";
 
 class Fllat
 {

@@ -1,15 +1,15 @@
 <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>-->
-<script>window.jQuery || document.write('<script src="atomic-core/vendor/jquery.js"><\/script>')</script>
+<script>window.jQuery || document.write('<script src="atomic-core/vendor-js/jquery.js"><\/script>')</script>
 <script src="atomic-core/js/src-min/ace.js"></script>
 
 
 <script src="atomic-core/js/src-min/ext-emmet.js">  </script>
-<script src="atomic-core/vendor/emmet/emmet.js"></script>
+<script src="atomic-core/vendor-js/emmet/emmet.js"></script>
 
 
-<script src="atomic-core/vendor/zero/ZeroClipboard.js"></script>
-<script src="atomic-core/vendor/newSort/jquery.fn.sortable.js"></script>
-<script src="atomic-core/vendor/output-tab.js"></script>
+<script src="atomic-core/vendor-js/zero/ZeroClipboard.js"></script>
+<script src="atomic-core/vendor-js/newSort/jquery.fn.sortable.js"></script>
+<script src="atomic-core/vendor-js/output-tab.js"></script>
 
 
 <script src="//malihu.github.io/custom-scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
@@ -201,9 +201,9 @@ if (file_exists($filename)) {
 
 
 
-<?php 
+<?php
   //Uncomment the following include to enable client mode.
-  //include "clientmode.php" 
+  //include "clientmode.php"
 ?>
 
 
